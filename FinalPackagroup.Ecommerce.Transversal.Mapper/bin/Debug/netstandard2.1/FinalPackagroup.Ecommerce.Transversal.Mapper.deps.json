@@ -1,0 +1,48 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "FinalPackagroup.Ecommerce.Transversal.Mapper/1.0.0": {
+        "dependencies": {
+          "FinalPackagroup.Ecommerce.Application.DTO": "1.0.0",
+          "FinalPackagroup.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "FinalPackagroup.Ecommerce.Transversal.Mapper.dll": {}
+        }
+      },
+      "FinalPackagroup.Ecommerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "FinalPackagroup.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "FinalPackagroup.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "FinalPackagroup.Ecommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalPackagroup.Ecommerce.Transversal.Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinalPackagroup.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinalPackagroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

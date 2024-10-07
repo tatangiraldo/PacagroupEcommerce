@@ -1,0 +1,48 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "FinalPackagroup.Ecommerce.Application.Interface/1.0.0": {
+        "dependencies": {
+          "FinalPackagroup.Ecommerce.Application.DTO": "1.0.0",
+          "FinalPackagroup.Ecommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "FinalPackagroup.Ecommerce.Application.Interface.dll": {}
+        }
+      },
+      "FinalPackagroup.Ecommerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "FinalPackagroup.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "FinalPackagroup.Ecommerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "FinalPackagroup.Ecommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalPackagroup.Ecommerce.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinalPackagroup.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinalPackagroup.Ecommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

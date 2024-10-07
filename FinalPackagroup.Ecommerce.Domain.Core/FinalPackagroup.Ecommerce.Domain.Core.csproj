@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FinalPackagroup.Ecommerce.Domain.Entity\FinalPackagroup.Ecommerce.Domain.Entity.csproj" />
+    <ProjectReference Include="..\FinalPackagroup.Ecommerce.Domain.Interface\FinalPackagroup.Ecommerce.Domain.Interface.csproj" />
+    <ProjectReference Include="..\FinalPackagroup.Ecommerce.Infrastructure.Interface\FinalPackagroup.Ecommerce.Infrastructure.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
