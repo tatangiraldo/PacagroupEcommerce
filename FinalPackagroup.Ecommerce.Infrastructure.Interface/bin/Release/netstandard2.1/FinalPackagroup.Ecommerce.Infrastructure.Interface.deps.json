@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "FinalPackagroup.Ecommerce.Infrastructure.Interface/1.0.0": {
+        "dependencies": {
+          "FinalPackagroup.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "FinalPackagroup.Ecommerce.Infrastructure.Interface.dll": {}
+        }
+      },
+      "FinalPackagroup.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "FinalPackagroup.Ecommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalPackagroup.Ecommerce.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinalPackagroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

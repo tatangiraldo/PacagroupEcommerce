@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.deps.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Entity.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.AssemblyInfo.cs
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.sourcelink.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\FinalPac.074CBF74.Up2Date
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Interface.pdb

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.deps.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\bin\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.sourcelink.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\obj\Debug\netstandard2.1\FinalPac.D3E09BAE.Up2Date
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Infastructure.Data\obj\Debug\netstandard2.1\FinalPackagroup.Ecommerce.Infastructure.Data.pdb

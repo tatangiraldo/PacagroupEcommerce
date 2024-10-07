@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.deps.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.sourcelink.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.DTO\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.pdb

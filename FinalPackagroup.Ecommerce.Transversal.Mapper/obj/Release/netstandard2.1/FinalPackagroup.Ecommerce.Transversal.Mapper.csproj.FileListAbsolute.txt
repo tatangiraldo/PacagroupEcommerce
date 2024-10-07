@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.deps.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Entity.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.sourcelink.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\obj\Release\netstandard2.1\FinalPac.BCD7BEC7.Up2Date
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Mapper\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Mapper.pdb

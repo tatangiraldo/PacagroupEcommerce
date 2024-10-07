@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.deps.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.sourcelink.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Common\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.pdb

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.deps.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.DTO.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.AssemblyInfo.cs
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.sourcelink.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\FinalPac.80D4F970.Up2Date
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Application.Interface.pdb

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.deps.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\bin\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.AssemblyInfo.cs
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.sourcelink.json
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\obj\Release\netstandard2.1\FinalPac.F3514F93.Up2Date
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\User\Desktop\Jhonnatan\Devops\.NET\workspace\PacagroupEcommerce\FinalPackagroup.Ecommerce.Transversal.Logging\obj\Release\netstandard2.1\FinalPackagroup.Ecommerce.Transversal.Logging.pdb

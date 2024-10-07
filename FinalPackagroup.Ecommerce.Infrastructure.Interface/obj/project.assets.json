@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "FinalPackagroup.Ecommerce.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/FinalPackagroup.Ecommerce.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinalPackagroup.Ecommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalPackagroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../FinalPackagroup.Ecommerce.Domain.Entity/FinalPackagroup.Ecommerce.Domain.Entity.csproj",
+      "msbuildProject": "../FinalPackagroup.Ecommerce.Domain.Entity/FinalPackagroup.Ecommerce.Domain.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "FinalPackagroup.Ecommerce.Domain.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\PacagroupEcommerce\\FinalPackagroup.Ecommerce.Infrastructure.Interface\\FinalPackagroup.Ecommerce.Infrastructure.Interface.csproj",
+      "projectName": "FinalPackagroup.Ecommerce.Infrastructure.Interface",
+      "projectPath": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\PacagroupEcommerce\\FinalPackagroup.Ecommerce.Infrastructure.Interface\\FinalPackagroup.Ecommerce.Infrastructure.Interface.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\PacagroupEcommerce\\FinalPackagroup.Ecommerce.Infrastructure.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\PacagroupEcommerce\\FinalPackagroup.Ecommerce.Domain.Entity\\FinalPackagroup.Ecommerce.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Jhonnatan\\Devops\\.NET\\workspace\\PacagroupEcommerce\\FinalPackagroup.Ecommerce.Domain.Entity\\FinalPackagroup.Ecommerce.Domain.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
